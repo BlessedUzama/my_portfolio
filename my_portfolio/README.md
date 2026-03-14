@@ -1,16 +1,56 @@
-# React + Vite
+# Blessed Uzama | Frontend Developer & Product Designer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive personal portfolio built to showcase my web development skills, design experience, and recent technical projects.
 
-Currently, two official plugins are available:
+**🚀 [View Live Demo Here](https://my-portfolio-uzama-enoma-blesseds-projects.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Features
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- **Modern UI/UX:** Clean, minimalist design with smooth hover states, custom shadows, and active transitions.
+- **Dark/Light Mode Toggle:** Full theme support perfectly integrated with Tailwind CSS.
+- **Interactive Modals:** Detailed service offerings displayed via clean, dismissible pop-up modals.
+- **Project Showcase:** Dedicated portfolio grid highlighting recent GitHub repositories, tech stacks, and live deployments.
+- **Fully Responsive:** Pixel-perfect adjustments across desktop, tablet, and a custom mobile bottom-sheet navigation.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework:** [React.js](https://reactjs.org/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons & Typography:** [React Icons](https://react-icons.github.io/react-icons/) & Google Fonts (Inter)
+- **Deployment:** Vercel
+
+## 💻 Local Development
+
+Want to view or run this project locally? Follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone [https://github.com/BlessedUzama/your-repo-name.git](https://github.com/BlessedUzama/your-repo-name.git)
+
+   ```
+
+2. **Navigate into the project directory:**
+   cd your-repo-name
+
+3. **Install dependencies:**
+   npm install
+
+4. **Start the development server:**
+   npm run dev
+
+The application will typically run on http://localhost:5173/.
+
+📫 Connect With Me
+I am always open to discussing product design work, frontend opportunities, or new partnerships.
+
+LinkedIn: blessed-uzama
+
+GitHub: @BlessedUzama
+
+Email: Uzamablessed@gmail.com
+
+Designed and built by Blessed Uzama.
