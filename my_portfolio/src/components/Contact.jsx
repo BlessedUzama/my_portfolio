@@ -48,7 +48,7 @@ const Contact = () => {
               WhatsApp
             </h4>
             <span className="text-sm text-gray-500 dark:text-gray-400 mb-6">
-              +234 902 242 2926
+              +234 902 242 2936
             </span>
             <a
               href="https://api.whatsapp.com/send?phone=2349022422926&text=Hello, I would like to talk about a project!"
