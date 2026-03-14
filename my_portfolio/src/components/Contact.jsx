@@ -51,7 +51,7 @@ const Contact = () => {
               +234 902 242 2936
             </span>
             <a
-              href="https://api.whatsapp.com/send?phone=2349022422926&text=Hello, I would like to talk about a project!"
+              href="https://api.whatsapp.com/send?phone=2349022422936&text=Hello, I would like to talk about a project!"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-1 text-sm font-medium text-blue-600 dark:text-blue-400 group-hover:text-blue-800 dark:group-hover:text-blue-300 mt-auto transition-colors"
