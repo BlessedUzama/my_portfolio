@@ -2,6 +2,8 @@ import { BiLinkExternal, BiLogoGithub, BiRightArrowAlt } from "react-icons/bi";
 import Ecommerce from "../assets/E-commerce.png";
 import markdown from "../assets/markdown.png";
 import Frontendmentor from "../assets/Frontendmentor.png";
+import currency from "../assets/currency.png";
+
 
 const Portfolio = () => {
   const projectsData = [
@@ -17,14 +19,13 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Currency Converter Capstone",
+      title: "CURRENCY.IO",
       description:
-        "A dynamic currency converter application integrating external APIs for real-time exchange rates and interactive data handling.",
-      image:
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop", // Replace with your actual project screenshot
-      techStack: ["JavaScript", "HTML5", "CSS3", "REST APIs"],
-      githubUrl: "https://github.com/BlessedUzama/Capstone-Project",
-      demoUrl: "#", // Add your live link here
+        "A high-performance currency intelligence tool built with React and Tailwind, featuring a searchable country-flag dropdown and a seamless Dark Mode interface. This project bridges the gap between live API data and historical database trends to offer a premium, data-driven user experience.",
+      image: currency,
+      techStack: ["React", "Python/Flask", "PostgreSQL", "DataVisualization", "Tailwind CSS"],
+      githubUrl: "git@github.com:BlessedUzama/CURRENCY.IO.git",
+      demoUrl: "https://currency-converter-iota-ivory-30.vercel.app/",
     },
     {
       id: 3,
